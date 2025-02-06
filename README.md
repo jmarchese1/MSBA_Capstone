@@ -1,0 +1,1 @@
+As part of the MSBA program at the University of Notre Dame I've had the fantastic opportunity to work with Huntington Bank. Here are the models i've built to help them find schools that are need of thier investments and financing.
